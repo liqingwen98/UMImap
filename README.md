@@ -4,3 +4,6 @@ Before using UMImap, please install Biopython, Flexiplex (refer to: https://davi
 
 If you have any problem, welcome to contact me: li.qing.wen@foxmail.com.
 
+#citation
+Qingwen Li, Dongxu Li, Chen Sun, Guangtao Song, Yihua Huang, Jizhong Lou
+bioRxiv 2026

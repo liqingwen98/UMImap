@@ -4,6 +4,14 @@ Before using UMImap, please install Biopython, Flexiplex (refer to: https://davi
 
 If you have any problem, welcome to contact me: li.qing.wen@foxmail.com.
 
-#citation
-Qingwen Li, Dongxu Li, Chen Sun, Guangtao Song, Yihua Huang, Jizhong Lou
-bioRxiv 2026
+## Citations
+``` bibtex
+@article {Li2026.01.14.699429,
+	author = {Li, Qingwen and Li, Dongxu and Sun, Chen and Song, Guangtao and Huang, Yihua and Lou, Jizhong},
+	title = {Quantitative Full-length transcriptome analysis by nanopore sequencing with Error-Aware UMI mapping},
+	year = {2026},
+	doi = {10.64898/2026.01.14.699429},
+	publisher = {Cold Spring Harbor Laboratory},
+	journal = {bioRxiv}
+}
+```

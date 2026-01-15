@@ -1,5 +1,4 @@
-![UMImap](https://github.com/user-attachments/assets/90aac8b6-4f70-47dc-9c26-fc3f8155c613)
-
+![UMImap](https://github.com/user-attachments/assets/765d4d44-157c-4f08-a4d6-da2dc5560052)
 
 Before using UMImap, please install Biopython, Flexiplex (refer to: https://davidsongroup.github.io/flexiplex/), vsearch (refer to: https://github.com/torognes/vsearch), and CD-HIT (refer to: https://github.com/weizhongli/cdhit).
 
